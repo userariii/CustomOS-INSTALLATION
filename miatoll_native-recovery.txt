@@ -1,0 +1,7 @@
+1) Boot your device in fastboot mode
+2) Now flash the provided recovery by "fastboot flash recovery <drag & drop the recovery>.img
+3) Now boot your device in recovery mode by "fastboot reboot recovery"
+4) Onces Recovery booted, do factory reset by: Factory reset >> Format data/factory reset >> Yes
+5) Go back to main menu then: Apply update >> Apply from ADB
+6) From the host machine type: adb sideload <drag & drop the ROM_file>.zip
+7) Now wait for the update completion, onces done Reboot System from the main menu.
