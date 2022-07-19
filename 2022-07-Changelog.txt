@@ -1,0 +1,4 @@
+• Added Dirac Sound enhancer
+• Added Thermal profiles
+• Unlocked HDR certification for Netflix
+• Powered by Forza Kernel
